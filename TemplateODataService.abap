@@ -26,7 +26,7 @@ METHOD <EntityName>set_get_entity.
 	  .....
 	  
     DATA lv_key_1 TYPE <keyType1>.
-	DATA lv_key_2 TYPE <keyType2>.
+    DATA lv_key_2 TYPE <keyType2>.
 	  .....
 	  
     TRY.
