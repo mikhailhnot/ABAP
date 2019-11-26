@@ -22,7 +22,7 @@
 METHOD <EntityName>set_get_entity.
 
     CONSTANTS lc_keyname_1 TYPE string VALUE '<keyPropertyName1>'.
-	CONSTANTS lc_keyname_2 TYPE string VALUE '<keyPropertyName2>'.
+    CONSTANTS lc_keyname_2 TYPE string VALUE '<keyPropertyName2>'.
 	  .....
 	  
     DATA lv_key_1 TYPE <keyType1>.
